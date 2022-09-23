@@ -1,0 +1,367 @@
+[
+  {
+    "Id": 1,
+    "Nome": "Mountain Bike Socks, M",
+    "Cor": "Branco",
+    "Preco": 9.5,
+    "Tamanho": "M",
+    "Genero": "U",
+    "DataCadastro": "2022-05-03T23:36:20.2766667"
+  },
+  {
+    "Id": 2,
+    "Nome": "Mountain Bike Socks, L",
+    "Cor": "Branco",
+    "Preco": 9.5,
+    "Tamanho": "G",
+    "Genero": "U",
+    "DataCadastro": "2022-05-03T23:36:20.2766667"
+  },
+  {
+    "Id": 3,
+    "Nome": "AWC Logo Cap",
+    "Cor": "Colorido",
+    "Preco": 8.99,
+    "Tamanho": "",
+    "Genero": "U",
+    "DataCadastro": "2022-05-03T23:36:20.2766667"
+  },
+  {
+    "Id": 4,
+    "Nome": "Long-Sleeve Logo Jersey, S",
+    "Cor": "Colorido",
+    "Preco": 49.99,
+    "Tamanho": "P",
+    "Genero": "U",
+    "DataCadastro": "2022-05-03T23:36:20.2766667"
+  },
+  {
+    "Id": 5,
+    "Nome": "Long-Sleeve Logo Jersey, M",
+    "Cor": "Colorido",
+    "Preco": 49.99,
+    "Tamanho": "M",
+    "Genero": "U",
+    "DataCadastro": "2022-05-03T23:36:20.2766667"
+  },
+  {
+    "Id": 6,
+    "Nome": "Long-Sleeve Logo Jersey, L",
+    "Cor": "Colorido",
+    "Preco": 49.99,
+    "Tamanho": "G",
+    "Genero": "U",
+    "DataCadastro": "2022-05-03T23:36:20.2766667"
+  },
+  {
+    "Id": 7,
+    "Nome": "Long-Sleeve Logo Jersey, XL",
+    "Cor": "Colorido",
+    "Preco": 49.99,
+    "Tamanho": "GG",
+    "Genero": "U",
+    "DataCadastro": "2022-05-03T23:36:20.2766667"
+  },
+  {
+    "Id": 8,
+    "Nome": "Mens Sports Shorts, S",
+    "Cor": "Preto",
+    "Preco": 59.99,
+    "Tamanho": "P",
+    "Genero": "M",
+    "DataCadastro": "2022-05-03T23:36:20.2766667"
+  },
+  {
+    "Id": 9,
+    "Nome": "Mens Sports Shorts, M",
+    "Cor": "Preto",
+    "Preco": 59.99,
+    "Tamanho": "M",
+    "Genero": "M",
+    "DataCadastro": "2022-05-03T23:36:20.2766667"
+  },
+  {
+    "Id": 10,
+    "Nome": "Mens Sports Shorts, L",
+    "Cor": "Preto",
+    "Preco": 59.99,
+    "Tamanho": "G",
+    "Genero": "M",
+    "DataCadastro": "2022-05-03T23:36:20.2766667"
+  },
+  {
+    "Id": 11,
+    "Nome": "Mens Sports Shorts, XL",
+    "Cor": "Preto",
+    "Preco": 59.99,
+    "Tamanho": "GG",
+    "Genero": "M",
+    "DataCadastro": "2022-05-03T23:36:20.2766667"
+  },
+  {
+    "Id": 12,
+    "Nome": "Womens Tights, S",
+    "Cor": "Preto",
+    "Preco": 74.99,
+    "Tamanho": "P",
+    "Genero": "F",
+    "DataCadastro": "2022-05-03T23:36:20.2766667"
+  },
+  {
+    "Id": 13,
+    "Nome": "Womens Tights, M",
+    "Cor": "Preto",
+    "Preco": 74.99,
+    "Tamanho": "M",
+    "Genero": "F",
+    "DataCadastro": "2022-05-03T23:36:20.2766667"
+  },
+  {
+    "Id": 14,
+    "Nome": "Womens Tights, L",
+    "Cor": "Preto",
+    "Preco": 74.99,
+    "Tamanho": "G",
+    "Genero": "F",
+    "DataCadastro": "2022-05-03T23:36:20.2766667"
+  },
+  {
+    "Id": 15,
+    "Nome": "Mens Bib-Shorts, S",
+    "Cor": "Colorido",
+    "Preco": 89.99,
+    "Tamanho": "P",
+    "Genero": "M",
+    "DataCadastro": "2022-05-03T23:36:20.2766667"
+  },
+  {
+    "Id": 16,
+    "Nome": "Mens Bib-Shorts, M",
+    "Cor": "Colorido",
+    "Preco": 89.99,
+    "Tamanho": "M",
+    "Genero": "M",
+    "DataCadastro": "2022-05-03T23:36:20.2766667"
+  },
+  {
+    "Id": 17,
+    "Nome": "Mens Bib-Shorts, L",
+    "Cor": "Colorido",
+    "Preco": 89.99,
+    "Tamanho": "G",
+    "Genero": "M",
+    "DataCadastro": "2022-05-03T23:36:20.2766667"
+  },
+  {
+    "Id": 18,
+    "Nome": "Half-Finger Gloves, S",
+    "Cor": "Preto",
+    "Preco": 24.49,
+    "Tamanho": "P",
+    "Genero": "U",
+    "DataCadastro": "2022-05-03T23:36:20.2766667"
+  },
+  {
+    "Id": 19,
+    "Nome": "Half-Finger Gloves, M",
+    "Cor": "Preto",
+    "Preco": 24.49,
+    "Tamanho": "M",
+    "Genero": "U",
+    "DataCadastro": "2022-05-03T23:36:20.2766667"
+  },
+  {
+    "Id": 20,
+    "Nome": "Half-Finger Gloves, L",
+    "Cor": "Preto",
+    "Preco": 24.49,
+    "Tamanho": "G",
+    "Genero": "U",
+    "DataCadastro": "2022-05-03T23:36:20.2766667"
+  },
+  {
+    "Id": 21,
+    "Nome": "Full-Finger Gloves, S",
+    "Cor": "Preto",
+    "Preco": 37.99,
+    "Tamanho": "P",
+    "Genero": "U",
+    "DataCadastro": "2022-05-03T23:36:20.2766667"
+  },
+  {
+    "Id": 22,
+    "Nome": "Full-Finger Gloves, M",
+    "Cor": "Preto",
+    "Preco": 37.99,
+    "Tamanho": "M",
+    "Genero": "U",
+    "DataCadastro": "2022-05-03T23:36:20.2766667"
+  },
+  {
+    "Id": 23,
+    "Nome": "Full-Finger Gloves, L",
+    "Cor": "Preto",
+    "Preco": 37.99,
+    "Tamanho": "G",
+    "Genero": "U",
+    "DataCadastro": "2022-05-03T23:36:20.2766667"
+  },
+  {
+    "Id": 24,
+    "Nome": "Classic Vest, S",
+    "Cor": "Blue",
+    "Preco": 63.5,
+    "Tamanho": "P",
+    "Genero": "U",
+    "DataCadastro": "2022-05-03T23:36:20.2766667"
+  },
+  {
+    "Id": 25,
+    "Nome": "Classic Vest, M",
+    "Cor": "Blue",
+    "Preco": 63.5,
+    "Tamanho": "M",
+    "Genero": "U",
+    "DataCadastro": "2022-05-03T23:36:20.2766667"
+  },
+  {
+    "Id": 26,
+    "Nome": "Classic Vest, L",
+    "Cor": "Blue",
+    "Preco": 63.5,
+    "Tamanho": "G",
+    "Genero": "U",
+    "DataCadastro": "2022-05-03T23:36:20.2766667"
+  },
+  {
+    "Id": 27,
+    "Nome": "Womens Mountain Shorts, S",
+    "Cor": "Preto",
+    "Preco": 69.99,
+    "Tamanho": "P",
+    "Genero": "F",
+    "DataCadastro": "2022-05-03T23:36:20.2766667"
+  },
+  {
+    "Id": 28,
+    "Nome": "Womens Mountain Shorts, M",
+    "Cor": "Preto",
+    "Preco": 69.99,
+    "Tamanho": "M",
+    "Genero": "F",
+    "DataCadastro": "2022-05-03T23:36:20.2766667"
+  },
+  {
+    "Id": 29,
+    "Nome": "Womens Mountain Shorts, L",
+    "Cor": "Preto",
+    "Preco": 69.99,
+    "Tamanho": "G",
+    "Genero": "F",
+    "DataCadastro": "2022-05-03T23:36:20.2766667"
+  },
+  {
+    "Id": 30,
+    "Nome": "Racing Socks, M",
+    "Cor": "Branco",
+    "Preco": 8.99,
+    "Tamanho": "M",
+    "Genero": "U",
+    "DataCadastro": "2022-05-03T23:36:20.2766667"
+  },
+  {
+    "Id": 31,
+    "Nome": "Racing Socks, L",
+    "Cor": "Branco",
+    "Preco": 8.99,
+    "Tamanho": "G",
+    "Genero": "U",
+    "DataCadastro": "2022-05-03T23:36:20.2766667"
+  },
+  {
+    "Id": 32,
+    "Nome": "Short-Sleeve Classic Jersey, S",
+    "Cor": "Amarelo",
+    "Preco": 53.99,
+    "Tamanho": "P",
+    "Genero": "U",
+    "DataCadastro": "2022-05-03T23:36:20.2766667"
+  },
+  {
+    "Id": 33,
+    "Nome": "Short-Sleeve Classic Jersey, M",
+    "Cor": "Amarelo",
+    "Preco": 53.99,
+    "Tamanho": "M",
+    "Genero": "U",
+    "DataCadastro": "2022-05-03T23:36:20.2766667"
+  },
+  {
+    "Id": 34,
+    "Nome": "Short-Sleeve Classic Jersey, L",
+    "Cor": "Amarelo",
+    "Preco": 53.99,
+    "Tamanho": "G",
+    "Genero": "U",
+    "DataCadastro": "2022-05-03T23:36:20.2766667"
+  },
+  {
+    "Id": 35,
+    "Nome": "Short-Sleeve Classic Jersey, XL",
+    "Cor": "Amarelo",
+    "Preco": 53.99,
+    "Tamanho": "GG",
+    "Genero": "U",
+    "DataCadastro": "2022-05-03T23:36:20.2766667"
+  },
+  {
+    "Id": 38,
+    "Nome": "Produto teste",
+    "Preco": 10,
+    "Tamanho": "G",
+    "Genero": "M",
+    "DataCadastro": "2022-05-07T15:28:10.2166667"
+  },
+  {
+    "Id": 42,
+    "Nome": "Mountain Bike Socks2, M",
+    "Preco": 10,
+    "Tamanho": "G",
+    "Genero": "U",
+    "DataCadastro": "2022-05-07T15:42:38.9200000"
+  },
+  {
+    "Id": 43,
+    "Nome": "Mountain Bike Socks 3, M",
+    "Preco": 10,
+    "Tamanho": "G",
+    "Genero": "U",
+    "DataCadastro": "2022-05-07T15:46:14.1166667"
+  },
+  {
+    "Id": 45,
+    "Nome": "Mountain Bike Socks 3, M",
+    "Preco": 10,
+    "Tamanho": "G",
+    "Genero": "U",
+    "DataCadastro": "2022-05-07T15:51:45.9833333"
+  },
+  {
+    "Id": 47,
+    "Nome": "NOVO PRODUTO PROCEDURE",
+    "Cor": "COLORIDO",
+    "Preco": 50,
+    "Tamanho": "G",
+    "Genero": "U",
+    "DataCadastro": "2022-05-07T16:12:41.2000000"
+  },
+  {
+    "Id": 48,
+    "Nome": "NOVO PRODUTO PROCEDURE",
+    "Cor": "COLORIDO",
+    "Preco": 50,
+    "Tamanho": "G",
+    "Genero": "U",
+    "DataCadastro": "2022-05-07T16:15:13.7866667"
+  }
+]
